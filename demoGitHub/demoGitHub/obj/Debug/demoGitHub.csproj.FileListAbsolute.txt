@@ -8,3 +8,13 @@ D:\Làm Việc Với Git\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitH
 D:\Làm Việc Với Git\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.csproj.GenerateResource.Cache
 D:\Làm Việc Với Git\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.exe
 D:\Làm Việc Với Git\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.pdb
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\bin\Debug\demoGitHub.exe.config
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\bin\Debug\demoGitHub.exe
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\bin\Debug\demoGitHub.pdb
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.csprojResolveAssemblyReference.cache
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.Form1.resources
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.Form2.resources
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.Properties.Resources.resources
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.csproj.GenerateResource.Cache
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.exe
+D:\VDGITHUB\LuyenTapGitHub\demoGitHub\demoGitHub\obj\Debug\demoGitHub.pdb
